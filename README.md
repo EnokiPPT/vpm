@@ -52,6 +52,10 @@ Installing vpm should be as easy as following the simple following steps:
 2. Clone vpm repository
 
         $ git clone git@github.com:netzverweigerer/vpm.git
+        
+## Or
+1. Install vpm via xbps-install:
+        # xbps-install vpm
 
 I'm not covering how to put vpm into a place that is in your $PATH as I can't give general UNIX administration support in this README.
 
